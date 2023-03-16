@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there! I'm wise, a student at Takoradi Technical University pursuing a Bachelor's degree in Computer Science. As an aspiring software engineer, I'm constantly learning new skills and technologies to help me achieve my goals. On this GitHub profile, you'll find a collection of my school projects,<!-- including [List some of your best projects and their descriptions] -->. I also have a main account where I work on personal projects and contribute to open-source projects ([Link to your main account]). I'm always looking for feedback and suggestions, so please feel free to reach out and connect with me!
 
 <!--
 **george-femi-wise/George-Femi-Wise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
